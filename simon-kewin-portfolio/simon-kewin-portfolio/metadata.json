@@ -1,0 +1,6 @@
+{
+  "name": "Simon Kewin Portfolio",
+  "description": "A premium, modern, and highly interactive personal portfolio website showcasing products, AI, automation, and digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
